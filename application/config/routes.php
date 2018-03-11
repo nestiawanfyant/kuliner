@@ -13,6 +13,8 @@ $route['account/infodata'] = 'account';
 $route['account/password'] = 'account';
 $route['account/images'] = 'account';
 
+// test
+$route['home/rose'] = 'home/role';
 
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = true;
